@@ -1,1 +1,2 @@
-# nodejs-drawing-app-server
+# Description
+Realtime collaboraion Drawing app backend
